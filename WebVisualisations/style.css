@@ -1,0 +1,35 @@
+h5 {
+  color: #14a11b;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+body {
+  background-color: gainsboro;
+  text-align: center;
+  margin: 20px;
+}
+h2,
+h3,
+h4 {
+  color: #14a11b;
+  text-align: left;
+}
+
+img {
+  float: left;
+  margin: 10px;
+}
+
+p {
+  text-align: justify;
+  font-size: 15px;
+}
+
+
+@media screen and (max-width: 960px) {
+  .container-fluid {
+    background-color: #14a11b;
+    
+  }
